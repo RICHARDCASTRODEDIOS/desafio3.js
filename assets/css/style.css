@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+/* div {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(56, 165, 42);
+} */
+
+#ele3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(56, 165, 42);
+}
+
+#ele4 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(56, 165, 42);
+}
+
+#ele5 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(56, 165, 42);
+}
+
+#ele6 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(56, 165, 42);
+}
